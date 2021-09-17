@@ -1,0 +1,1 @@
+export 'package:bloc_movies/ui/screens/movie_list_screen.dart';

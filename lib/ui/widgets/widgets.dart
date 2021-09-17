@@ -1,0 +1,1 @@
+export 'package:bloc_movies/ui/widgets/movie_list.dart';

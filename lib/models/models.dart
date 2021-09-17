@@ -1,0 +1,1 @@
+export 'package:bloc_movies/models/item_model.dart';
